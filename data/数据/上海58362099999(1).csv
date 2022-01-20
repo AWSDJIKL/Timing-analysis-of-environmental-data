@@ -1,0 +1,30 @@
+REPORT_TYPE,REPORT_TYPE
+Visibility-Observation,可见性-观察
+Present-Weather-Observation Manual,现状-天气-观测手册
+Wind-Observation,风观测
+Liquid-Precipitation (Hourly),液体-降水（每小时）
+Liquid-Precipitation (Hourly) #2,液体-降水（每小时） #2
+Sky-Condition-Observation Identifier,天空状况观测标识符
+Liquid-Precipitation (Hourly) #3,液体-降水（每小时） #3
+Sea Level Pressure,海平面压力
+Sky-Cover-Layer,天窗覆盖层
+Eqd,设备均衡
+Extreme-Air-Temperature,极端空气温度
+Ground-Surface-Observation Minimum-Temperature,地表观测最低温度
+Atmospheric-Pressure-Observation (Alt/Stp),大气压观测（Alt/Stp）
+Wind-Gust-Observation,阵风观测
+Extreme-Air-Temperature #2,极端空气温度 #2
+Sky-Condition-Observation,天空状况观察
+QUALITY_CONTROL,QUALITY_CONTROL
+Snow-Depth,雪深
+Sky-Condition-Observation #2,天空状况观察 #2
+Dry Bulb Temperature,干球温度
+Dew Point Temperature,露点温度
+SOURCE,源
+Past-Weather-Observation Manual,过去的天气观察手册
+Past-Weather-Observation Manual #2,过去的天气观测手册 #2
+Atmospheric-Pressure-Change,大气-压力-变化
+Remarks,言论
+Supplementary-Wind-Observation Identifier,补充风观测标识符
+CALL_SIGN,CALL_SIGN
+?Close,关闭
